@@ -19,6 +19,6 @@ ecmascript@0.5.8              # Enable ECMAScript2015+ syntax in app code
 
 accounts-password@1.3.0
 react-meteor-data
-apollo
+apollo@0.1.0-beta_2
 okgrow:accounts-ui-react
 shell-server
